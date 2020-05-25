@@ -6,4 +6,5 @@
 
 ### Time complexity (Merge): O(nLog n).
 
-### Time complexity (Radix): O(w + n) where w is the number of bits required to store each key.
+### Time complexity (Radix): O(w + n)
+where w is the number of bits required to store each key.
