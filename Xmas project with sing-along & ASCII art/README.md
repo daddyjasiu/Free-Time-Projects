@@ -1,3 +1,3 @@
-# `Ho Ho Ho, MERRY CHRISTMAS!`
+# `Ho ho ho, MERRY CHRISTMAS!`
 
 ~Santa
