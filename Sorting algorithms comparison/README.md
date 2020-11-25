@@ -10,15 +10,6 @@ Sorting time graph for range 10 - 500000 elements:
 
 <br>
 
-
-
-
-
-
-
-
-
-
 Dominant operations graph for range 1000 - 50000 elements:
 <img src="https://github.com/hi-im-happy/Free-Time-Projects/blob/master/Sorting%20algorithms%20comparison/img/2a%20dom%20ops.png">
 </img>
